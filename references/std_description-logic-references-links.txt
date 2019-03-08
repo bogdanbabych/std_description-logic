@@ -1,8 +1,35 @@
 https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11948/11696
 https://www.google.com/search?q=deep+learning+description+logic&oq=deep+learning+description+logic&aqs=chrome..69i57.9880j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=description+logic+prolog&oq=description+logic+prolog&aqs=chrome..69i57j69i65l2.4384j1j7&sourceid=chrome&ie=UTF-8
+
     
     file:///Users/bogdan/Downloads/11948-55571-1-PB.pdf
     A Model for Learning Description Logic Ontologies Based on Exact Learning
     
 
+https://arxiv.org/pdf/1705.10342
+https://arxiv.org/pdf/1705.10342.pdf
+    Hohenecker, Lukasiewicz, 2017. Deep learning for ontology reasoning
+    
+    
+http://www.jmlr.org/papers/volume10/lehmann09a/lehmann09a.pdf
+    Lehman, 2009. DL-Learner: Learning Concepts in Description Logics
+    Journal of Machine Learning Research 10 (2009) 2639-2642
+    
+    http://dl-learner.org/
+    https://github.com/SmartDataAnalytics/DL-Learner
+    https://github.com/SmartDataAnalytics/DL-Learner/releases
+    
+    
+LUKACSY and SZEREDI. 2009. Efficient Description Logic Reasoning in Prolog: The DLog system
+    In: Theory and Practice of Logic Programming
+    https://arxiv.org/pdf/0904.0578.pdf
+    https://arxiv.org/abs/0904.0578
+    
+
+Faizi, 2011. A Description Logic Prover in Prolog
+    http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6046/pdf/imm6046.pdf
+    
+    
+    
     
