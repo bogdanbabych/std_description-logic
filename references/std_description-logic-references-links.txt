@@ -1,4 +1,7 @@
-file:///Users/bogdan/Downloads/11948-55571-1-PB.pdf
+https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11948/11696
+https://www.google.com/search?q=deep+learning+description+logic&oq=deep+learning+description+logic&aqs=chrome..69i57.9880j0j7&sourceid=chrome&ie=UTF-8
+    
+    file:///Users/bogdan/Downloads/11948-55571-1-PB.pdf
     A Model for Learning Description Logic Ontologies Based on Exact Learning
     
 
