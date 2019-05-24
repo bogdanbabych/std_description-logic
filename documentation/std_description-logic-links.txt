@@ -31,5 +31,31 @@ Faizi, 2011. A Description Logic Prover in Prolog
     http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6046/pdf/imm6046.pdf
     
     
+
+
+
+
+Quantum computing links:
+    Popular journals:
+    https://www.wired.com/story/wired-guide-to-quantum-computing/
+    https://www.wired.com/story/inside-the-high-stakes-race-to-make-quantum-computers-work/
     
+    
+    
+PyDatalog
+    https://sites.google.com/site/pydatalog/
+    
+    Logic programming in Python
+    pyDatalog, a logic programming package in Python.
+
+
+
+    
+# note: Python - Prolog / SWI Prolog integration -- links?
+
+
+
+Graph Technology to Fight Terrorist Threats
+    https://neo4j.com/blog/graph-technology-fight-terrorist-threats/?fbclid=IwAR2C19cJIdy3maD0944QVApKPYs_KgCcydxBF6JOWQ4pFYNVhsb9f04MGdE
+    https://www.youtube.com/watch?v=UO6MtEnuBDw
     
